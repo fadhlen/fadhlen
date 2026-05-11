@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱Currently a Computer Science student<br>📚 Learning to build (currently working on my website) <br><br><br><br>
+🌱Currently a Computer Science student<br>📚 Learning to build (currently working on my website) <br>
 📍Aspiring Software Engineer
 
 ## 🌐 Socials:
