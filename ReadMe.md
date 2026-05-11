@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱Currently a Computer Science student<br>📚 Learning to build (currently working on my website) <br><br><br><br>
-
+📍Aspiring Software Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fadhlen-n-5329601b0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fadhlennajma@gmail.com)
